@@ -1,6 +1,8 @@
 import React from 'react';
 
-const Stocks = () => {    
+
+
+const Stocks = () => {
     return (
         <>
             Stock Details Page
